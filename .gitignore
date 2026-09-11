@@ -1,3 +1,5 @@
 .venv/
 __pycache__/
 *.py[cod]
+fetched_properties.log
+src/data/fetched_properties.txt
